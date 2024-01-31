@@ -12,4 +12,4 @@ PHP / MYSQL / JS / JQUERY / HTML / CSS / SCSS / JAVA / JAVA FX / JDBC / JPA / PY
   
 <a href="https://www.linkedin.com/in/alexandraat/" target="_blank"><img src="https://raw.githubusercontent.com/alexandraat/alexandraat/main/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/alexandraat" target="_blank"><img src="https://raw.githubusercontent.com/alexandraat/alexandraat/main/git.png" alt="GitHub" width="30"></a>
-<a href="https://alexandraat.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/alexandraat/alexandraat/main/www.png" alt="Site" width="30"></a
+<a href="https://alexandraat.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/alexandraat/alexandraat/main/www.png" alt="Site" width="30"></a>
