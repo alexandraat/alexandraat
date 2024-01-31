@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 Alexandra Teixeira
+#### Full Stack Developer | Designer
 
-<!--
-**alexandraat/alexandraat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alexandra, 21, from Portugal, and I'm going to finish my BSc in information technologies this year at the Faculty of Sciences at the University of Lisbon. Currently, I have training to be a Full Stack developer but I also like UI, UX and design in general.
 
-Here are some ideas to get you started:
+**TECH STACK:**
+PHP / MYSQL / JS / JQUERY / HTML / CSS / SCSS / JAVA / JAVA FX / JDBC / JPA / PYTHON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a app to retrieve missing items 
+- 🌱 I’m currently learning Java FX 
+- 📫 How to reach me: alexandrateixeira002@gmail.com 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/alexandraat)](https://github.com/anuraghazra/github-readme-stats)
+
