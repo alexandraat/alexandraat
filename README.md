@@ -6,8 +6,8 @@ Hi, I'm Alexandra, 21, from Portugal, and I'm going to finish my 3rd year in BSc
 * 🖥 PYTHON, PHP, JAVA, JAVA FX
 * ☁ MYSQL
 * 💻 HTML, CSS, SCSS, JS
-  
-- 🔭 I’m currently working on a app to retrieve missing items 
+##
+- 🔭 I’m currently working on a project to build a app to retrieve missing items 
 - 🌱 I’m currently learning Java FX 
 - 📫 How to reach me: alexandrateixeira002@gmail.com
 
