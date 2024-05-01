@@ -1,6 +1,6 @@
 # 👋 Alexandra Teixeira 
 
-Hi, I'm Alexandra, 21, from Portugal, and I'm going to finish my 3rd year in BSc in information technologies this year at the Faculty of Sciences at the University of Lisbon. Currently, I have training to be a Full Stack developer but I also like UI, UX and design in general.
+Hi, I'm Alexandra, 21, from Portugal, and I'm going to finish my 3rd year in BSc in information technologies this year at the Faculty of Sciences at the University of Lisbon. Currently, I have training to be a Full Stack developer but I mainly like UI, UX and design in general.
 
 ## Tech Stack
 * 🖥 PYTHON, PHP, JAVA, JAVA FX
