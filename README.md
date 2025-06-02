@@ -6,6 +6,7 @@ Hi, I'm Alexandra, 22, from Portugal. Currently, I have training to be a Full St
 * 🖥 PYTHON, PHP, JAVA
 * ☁ MYSQL, MongoDB
 * 💻 HTML, CSS, SCSS, JS
+* 🎀 INTERESTS: Adobe Illustrator and Photoshop, Blender
 ##
 - 🔭 I’m currently working on a project to build a app to retrieve missing items 
 - 🌱 I’m currently learning Java FX 
